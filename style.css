@@ -1,0 +1,50 @@
+#header{
+    background-image: url(/pictures/newrockpaperscissors.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    
+    
+    height: 250px;
+    width: 900px;
+    margin: 20px;
+    
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+
+}
+
+#buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#rock{
+    background-color: salmon;
+    height: 50px;
+    width: 100px;
+}
+#paper{
+    background-color: rgb(33, 189, 189);
+    height: 50px;
+    width: 100px;
+}
+#scissors{
+    background-color: rgb(230, 180, 74);
+    height: 50px;
+    width: 100px;
+    
+    
+}
