@@ -5,6 +5,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-content: center;
+    align-items: center;
     flex-grow: 2;
     flex-shrink: 2;
 
@@ -22,6 +23,7 @@ body{
     
     height: 250px;
     width: 900px;
+    
     
     
 }
@@ -86,9 +88,16 @@ p{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-left: 200px;
-    
+    align-items: center;
+   
 
+}
+
+#userLabel{
+    font-size: 20px;
+}
+#compLabel{
+    font-size: 20px;
 }
 
 
