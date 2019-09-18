@@ -12,7 +12,7 @@ body{
 }
 #header{
     
-    background-image: url(/pictures/newrockpaperscissors.png);
+   background-image: url(./newrockpaperscissors.png);
     background-repeat: no-repeat;
     background-position: center center;
     display: flex;
